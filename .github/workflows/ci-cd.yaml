@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: mith129/cicd-springboot-app
+  IMAGE_NAME: cicd-springboot-app
 
 jobs:
   build:
