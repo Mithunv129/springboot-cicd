@@ -11,7 +11,7 @@ public class Sample {
 	
 	@GetMapping("/home")
 	public ResponseEntity<String> showHome(){
-		return ResponseEntity.ok("Welcome Home!!!!!");
+		return ResponseEntity.ok("Welcome Home!@");
 	}
 
 }
